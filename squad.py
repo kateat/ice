@@ -50,7 +50,7 @@ from the corresponding reading passage, or the question might be unanswerable.
 _URL = "https://rajpurkar.github.io/SQuAD-explorer/dataset/"
 _URLS = {
     
-    "dev":https://raw.githubusercontent.com/kateat/squadone/hh/dev-v1.1.json",
+    "dev":https://raw.githubusercontent.com/kateat/ice/main/dev-v1.1.json",
 
 
 
