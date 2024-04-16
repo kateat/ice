@@ -55,7 +55,7 @@ _URLS = {
 
      "train": "https://githubusercontent.com/kateat/ice/main/dev-v1.1.json",
     
-    "dev":https://raw.githubusercontent.com/kateat/ice/main/dev-v1.1.json",
+    "dev":https://https://huggingface.co/datasets/Starkate/a/blob/main/dev-v1.1.json",
 
 
 
