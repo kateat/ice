@@ -49,6 +49,11 @@ from the corresponding reading passage, or the question might be unanswerable.
 
 _URL = "https://rajpurkar.github.io/SQuAD-explorer/dataset/"
 _URLS = {
+
+#   "train": "https://github.com/Yulong-W/squad/releases/download/train/train-v1.1.json",
+#   "dev": "https://raw.githubusercontent.com/Yulong-W/squad/main/dev-v1.1-excerpted.json",
+
+     "train": "https://githubusercontent.com/kateat/ice/main/dev-v1.1.json",
     
     "dev":https://raw.githubusercontent.com/kateat/ice/main/dev-v1.1.json",
 
